@@ -1,1 +1,0 @@
-# cisco-blue-team-project
